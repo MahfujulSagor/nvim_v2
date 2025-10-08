@@ -14,9 +14,8 @@ return {
       show_popup = false,
     },
     panel = { enabled = false },
+    cmp = { enabled = false }, -- disable Copilot in completion menu
     filetypes = {
-      markdown = true,
-      help = true,
       ["*"] = true, -- enable for all files
     },
   },
