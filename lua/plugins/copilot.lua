@@ -11,6 +11,7 @@ return {
         prev = "<M-[>",
         dismiss = "<C-]>",
       },
+      show_popup = false,
     },
     panel = { enabled = false },
     filetypes = {
